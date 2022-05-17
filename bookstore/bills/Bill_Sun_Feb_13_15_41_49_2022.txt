@@ -1,0 +1,16 @@
+Sold by:  " admin "
+
+-----------------
+
+
+Book{ISBN=1, Title=1, Author=1}
+
+Price: $1.0
+
+
+Quantity: 1
+-----------------
+
+
+TOTAL: $1.0
+DATE: Sun Feb 13 15:41:49 CET 2022

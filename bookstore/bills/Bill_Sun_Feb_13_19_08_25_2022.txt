@@ -1,0 +1,16 @@
+Sold by:  " admin "
+
+-----------------
+
+
+Book{ISBN=1111113, Title=Jurassic Park, Author=Michael Crichton}
+
+Price: $13.0
+
+
+Quantity: 1
+-----------------
+
+
+TOTAL: $13.0
+DATE: Sun Feb 13 19:08:25 CET 2022

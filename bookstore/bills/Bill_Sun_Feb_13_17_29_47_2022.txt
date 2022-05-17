@@ -1,0 +1,16 @@
+Sold by:  " manager2 "
+
+-----------------
+
+
+Book{ISBN=1, Title=1, Author=1}
+
+Price: $1.0
+
+
+Quantity: 4
+-----------------
+
+
+TOTAL: $4.0
+DATE: Sun Feb 13 17:29:47 CET 2022
