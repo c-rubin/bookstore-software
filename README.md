@@ -19,8 +19,11 @@
 #### List of usernames and passwords
 
 - username: `admin`<br/>password: `12345678`
+
 - username: `manager2`<br/>password: `manager2`
+
 - username: `librarian1`<br/>password: `librarian1`
+
 - username: `admin23`<br/>password: `admin23`
 
 #### Bills
