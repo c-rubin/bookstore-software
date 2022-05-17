@@ -1,4 +1,4 @@
-#### GUI Project CEN 215 - Object Oriented Programming 2021-2022
+#### GUI Project CEN 215 - Object Oriented Programming
 #### 2021 - 2022
 
 ---
