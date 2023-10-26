@@ -1,0 +1,25 @@
+name: Unit Testing (Java)
+
+on:
+  push:
+    branches:
+      - main  # Replace with your main branch name
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Java
+      uses: actions/setup-java@v2
+      with:
+        java-version: '11'  
+
+    - name: Build with Maven
+      run: mvn clean install  
+
+    - name: Run Unit Tests
+      run: mvn test  
